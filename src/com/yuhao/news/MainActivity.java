@@ -11,6 +11,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initView();
+        //你好  这里只是一个演示文件
     }
 
 	private void initView() {
